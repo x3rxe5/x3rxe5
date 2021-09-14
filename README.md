@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 
 <h1 align="center">Hi 👋, I'm Pulkit Sharma</h1>
-<h3 align="center">Self taught developer</h3>
+<h3 align="center">Self taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x3rxe5&label=Profile%20views&color=0e75b6&style=flat" alt="x3rxe5" /> </p>
 
